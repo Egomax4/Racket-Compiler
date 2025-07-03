@@ -1,0 +1,1 @@
+(define (test):Integer (+ 1 2)) 1
